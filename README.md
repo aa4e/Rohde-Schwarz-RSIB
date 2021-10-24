@@ -1,5 +1,5 @@
 # Rohde-Schwarz-RSIB
-VB.NET wrapper in OOP paradigm class for Rohde&amp;Schwarz library RSIB. 
+VB.NET wrapper class in OOP paradigm for Rohde&amp;Schwarz RSIB interface. 
 
 It uses R&S dll rsib32.dll, that's attached to repo.
 
